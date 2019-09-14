@@ -1,0 +1,17 @@
+{
+  "name": "starter-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run server",
+    "server": "node tasks/server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "reload": "^3.0.1",
+    "shelljs": "^0.8.3"
+  }
+}
